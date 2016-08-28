@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var r = 45
+	var r = 99
 	fmt.Println("hello world")
 	fmt.Fprintf(os.Stdout, "tttt %d", r)
 }
